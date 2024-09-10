@@ -12,9 +12,9 @@ export default function NewProject() {
                 </li>
             </menu>
             <div>
-                <Input label='Title' />
-                <Input label='Description' textarea />
-                <Input label='Due Date' />
+                <Input label="Title" />
+                <Input label="Description" textarea />
+                <Input label="Due Date" />
             </div>
         </div>
     );
