@@ -10,7 +10,6 @@ export default function Sidebar({ onStartAddProject }) {
                 </Button>
             </div>
             <ul>
-                <p>{projectName}</p>
             </ul>
         </aside>
     );
